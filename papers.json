@@ -49,6 +49,10 @@
       {
         "label": "Paper (OpenReview)",
         "url": "https://openreview.net/forum?id=YBxJtS6Uhv"
+      },
+      {
+        "label": "PDF",
+        "url": "https://manoj060603.github.io/assets/papers/reference-bellman-geometry.pdf"
       }
     ]
   },
@@ -72,6 +76,10 @@
       {
         "label": "Conference program",
         "url": "https://www.acml-conf.org/2026/program/sessions.html?v=20261109b"
+      },
+      {
+        "label": "PDF",
+        "url": "https://manoj060603.github.io/assets/papers/certified-transfer-lai-robbins.pdf"
       }
     ]
   },
@@ -405,6 +413,10 @@
       {
         "label": "Paper (OpenReview)",
         "url": "https://openreview.net/forum?id=6VYTljxZvL"
+      },
+      {
+        "label": "PDF",
+        "url": "https://manoj060603.github.io/assets/papers/nash-sufficient-experiments.pdf"
       }
     ]
   },
@@ -460,6 +472,10 @@
       {
         "label": "Paper (OpenReview)",
         "url": "https://openreview.net/forum?id=BboXw9JBNw"
+      },
+      {
+        "label": "PDF",
+        "url": "https://manoj060603.github.io/assets/papers/complete-classes-tensorize.pdf"
       }
     ]
   },
