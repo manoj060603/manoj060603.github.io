@@ -1,0 +1,575 @@
+[
+  {
+    "authors": [
+      "Manoj Saravanan",
+      "Rohit Kumar Salla",
+      "Shrikar Reddy Kota"
+    ],
+    "title": "Counterfactual Predictive State Representations: The Intrinsic Dimension of Partial-Information Games",
+    "venue": "NeurIPS 2026; accepted to the main conference (poster)",
+    "award": "",
+    "group": "conference",
+    "id": "publication-01",
+    "year": 2026,
+    "equalContribution": false,
+    "categories": [
+      "games",
+      "rl"
+    ],
+    "summary": "Characterizes the minimum dimension of exact counterfactual predictive states with linear readouts in finite-horizon, two-player zero-sum perfect-recall games, and relates local prediction and planning errors to exploitability.",
+    "featured": true,
+    "links": [
+      {
+        "label": "Conference page",
+        "url": "https://neurips.cc/virtual/2026/loc/atlanta/poster/148259"
+      }
+    ]
+  },
+  {
+    "authors": [
+      "Manoj Saravanan"
+    ],
+    "title": "Reference-Bellman Geometry for Oracle-Efficient Policy Identification in Linear MDPs",
+    "venue": "Asian Conference on Machine Learning (ACML), 2026; accepted (oral and poster)",
+    "award": "",
+    "group": "conference",
+    "id": "publication-02",
+    "year": 2026,
+    "equalContribution": false,
+    "categories": [
+      "rl"
+    ],
+    "summary": "Studies experimental design for comparing policies in linear MDPs, using reference Bellman recursions to track policy differences and their downstream effects.",
+    "featured": false,
+    "links": [
+      {
+        "label": "Conference program",
+        "url": "https://www.acml-conf.org/2026/program/sessions.html?v=20261109b"
+      },
+      {
+        "label": "Paper (OpenReview)",
+        "url": "https://openreview.net/forum?id=YBxJtS6Uhv"
+      }
+    ]
+  },
+  {
+    "authors": [
+      "Manoj Saravanan"
+    ],
+    "title": "Certified Transfer Lai–Robbins Theory for Finite-Horizon MDPs",
+    "venue": "Asian Conference on Machine Learning (ACML), 2026; accepted (oral and poster)",
+    "award": "",
+    "group": "conference",
+    "id": "publication-03",
+    "year": 2026,
+    "equalContribution": false,
+    "categories": [
+      "rl"
+    ],
+    "summary": "",
+    "featured": false,
+    "links": [
+      {
+        "label": "Conference program",
+        "url": "https://www.acml-conf.org/2026/program/sessions.html?v=20261109b"
+      }
+    ]
+  },
+  {
+    "authors": [
+      "Manoj Saravanan",
+      "Rohit Kumar Salla"
+    ],
+    "title": "When Can Pure Exploitation Succeed in Linear RL? Decoys and Self-Identifiability for Greedy LSVI",
+    "venue": "Reinforcement Learning Journal 7, 2026; presented at RLC 2026",
+    "award": "",
+    "group": "conference",
+    "id": "publication-04",
+    "year": 2026,
+    "equalContribution": false,
+    "categories": [
+      "rl"
+    ],
+    "summary": "Identifies indistinguishable alternative environments, called decoys, that obstruct exploration-free learning. Establishes regret guarantees for greedy LSVI under self-identifiability and additional regularity conditions.",
+    "featured": false,
+    "links": [
+      {
+        "label": "Journal paper",
+        "url": "https://rlj.org/papers/saravanan2026when"
+      },
+      {
+        "label": "PDF",
+        "url": "https://rlj.cs.umass.edu/2026/papers/Paper118.pdf"
+      }
+    ]
+  },
+  {
+    "authors": [
+      "Rohit Kumar Salla",
+      "Manoj Saravanan",
+      "Simon Stepputtis"
+    ],
+    "title": "Learning When to Stop: Prefix-Optimal Dynamic Diffusion Policies for Continuous Control",
+    "venue": "Reinforcement Learning Journal 7, 2026; presented at RLC 2026",
+    "award": "",
+    "group": "conference",
+    "id": "publication-05",
+    "year": 2026,
+    "equalContribution": false,
+    "categories": [
+      "rl"
+    ],
+    "summary": "Trains value functions for intermediate diffusion steps through a Bellman-style recursion, providing a signal for adaptive stopping in continuous control.",
+    "featured": false,
+    "links": [
+      {
+        "label": "Journal paper",
+        "url": "https://rlj.org/papers/salla2026learning"
+      },
+      {
+        "label": "PDF",
+        "url": "https://rlj.cs.umass.edu/2026/papers/Paper9.pdf"
+      }
+    ]
+  },
+  {
+    "authors": [
+      "Manoj Saravanan",
+      "Rohit Kumar Salla"
+    ],
+    "title": "Universality of Singular Complexity for Hyvärinen Generalized Bayes: Exact Transfer in Gaussian Factor Analysis",
+    "venue": "Symposium on Probabilistic Machine Learning (ProbML), 2026; PMLR 327",
+    "award": "",
+    "group": "conference",
+    "id": "publication-06",
+    "year": 2026,
+    "equalContribution": false,
+    "categories": [
+      "stats"
+    ],
+    "summary": "Transfers local singular learning complexity between Gaussian likelihood Bayes and Hyvärinen generalized Bayes through comparable analytic excess-loss geometry.",
+    "featured": false,
+    "links": [
+      {
+        "label": "Proceedings",
+        "url": "https://proceedings.mlr.press/v327/saravanan26a.html"
+      },
+      {
+        "label": "PDF",
+        "url": "https://raw.githubusercontent.com/mlresearch/v327/main/assets/saravanan26a/saravanan26a.pdf"
+      }
+    ]
+  },
+  {
+    "authors": [
+      "Rohit Kumar Salla",
+      "Manoj Saravanan",
+      "Ramya Manasa Amancherla"
+    ],
+    "title": "CrossQ: Task-Aligned Cross-Token Conditional Quantization for Late Interaction Retrieval",
+    "venue": "International Conference on Machine Learning (ICML), 2026; PMLR 306",
+    "award": "",
+    "group": "conference",
+    "id": "publication-07",
+    "year": 2026,
+    "equalContribution": false,
+    "categories": [
+      "retrieval"
+    ],
+    "summary": "Compresses late-interaction retrieval indices with document-conditioned token quantization and ranking-aligned objectives that protect retrieval-critical scores.",
+    "featured": false,
+    "links": [
+      {
+        "label": "Proceedings",
+        "url": "https://proceedings.mlr.press/v306/salla26a.html"
+      },
+      {
+        "label": "PDF",
+        "url": "https://raw.githubusercontent.com/mlresearch/v306/main/assets/salla26a/salla26a.pdf"
+      }
+    ]
+  },
+  {
+    "authors": [
+      "Manoj Saravanan",
+      "Rohit Kumar Salla",
+      "Ramya Manasa Amancherla"
+    ],
+    "title": "AURORA: Neuro-Symbolic Continual Indexing for Evolving RAG Systems",
+    "venue": "Findings of ACL, 2026",
+    "award": "",
+    "group": "conference",
+    "id": "publication-08",
+    "year": 2026,
+    "equalContribution": true,
+    "categories": [
+      "retrieval",
+      "continual"
+    ],
+    "summary": "Adapts retrieval indices under distribution shift through continual learning and uncertainty-aware routing while preserving discrete index structure.",
+    "featured": false,
+    "links": [
+      {
+        "label": "Proceedings",
+        "url": "https://aclanthology.org/2026.findings-acl.495/"
+      },
+      {
+        "label": "PDF",
+        "url": "https://aclanthology.org/2026.findings-acl.495.pdf"
+      }
+    ]
+  },
+  {
+    "authors": [
+      "Manoj Saravanan",
+      "Rohit Kumar Salla",
+      "Shrikar Reddy Kota"
+    ],
+    "title": "What Does Disagreement Mean? A Semantic Identifiability Frontier for Pairwise Preference Learning",
+    "venue": "2nd Workshop on Epistemic Intelligence in Machine Learning (EIML), ICML 2026",
+    "award": "Best Paper Award",
+    "group": "workshop",
+    "id": "publication-09",
+    "year": 2026,
+    "equalContribution": false,
+    "categories": [
+      "stats",
+      "games"
+    ],
+    "summary": "Separates what binary preference feedback identifies from what requires repeated annotator queries or abstention-enabled interfaces.",
+    "featured": false,
+    "links": [
+      {
+        "label": "arXiv",
+        "url": "https://arxiv.org/abs/2610.20450"
+      },
+      {
+        "label": "PDF",
+        "url": "https://arxiv.org/pdf/2610.20450"
+      }
+    ]
+  },
+  {
+    "authors": [
+      "Manoj Saravanan",
+      "Rohit Kumar Salla"
+    ],
+    "title": "Bellman-Decodable Approximate Information States: Reward-Free Universal Control under Misspecification",
+    "venue": "Model-Based RL in the Era of Generative World Models Workshop, RLC 2026",
+    "award": "",
+    "group": "workshop",
+    "id": "publication-10",
+    "year": 2026,
+    "equalContribution": false,
+    "categories": [
+      "rl"
+    ],
+    "summary": "",
+    "featured": false,
+    "links": [
+      {
+        "label": "Workshop program",
+        "url": "https://worldmodels-rlc.github.io/#papers"
+      },
+      {
+        "label": "Paper (OpenReview)",
+        "url": "https://openreview.net/forum?id=ql2vNZKwsp"
+      }
+    ]
+  },
+  {
+    "authors": [
+      "Manoj Saravanan"
+    ],
+    "title": "When Does Partial Identification Admit Exact Dynamic Programming? Causal Rectangularity in Sequential Decision Problems",
+    "venue": "Causality for Decision Making Workshop, UAI 2026; virtual paper",
+    "award": "",
+    "group": "workshop",
+    "id": "publication-11",
+    "year": 2026,
+    "equalContribution": false,
+    "categories": [
+      "stats",
+      "rl"
+    ],
+    "summary": "",
+    "featured": false,
+    "links": [
+      {
+        "label": "Workshop program",
+        "url": "https://sites.google.com/view/uai-workshop-2026/home"
+      }
+    ]
+  },
+  {
+    "authors": [
+      "Manoj Saravanan"
+    ],
+    "title": "Bellman-Local Lyapunov Barriers for Exact Stationary Nash Learning in Discounted Perfect-Information Stochastic Games",
+    "venue": "NExT-Game Workshop, ICML 2026; poster",
+    "award": "",
+    "group": "workshop",
+    "id": "publication-12",
+    "year": 2026,
+    "equalContribution": false,
+    "categories": [
+      "games",
+      "rl"
+    ],
+    "summary": "",
+    "featured": false,
+    "links": [
+      {
+        "label": "Workshop program",
+        "url": "https://sites.google.com/view/nextgame-icml26/accepted-papers"
+      }
+    ]
+  },
+  {
+    "authors": [
+      "Manoj Saravanan"
+    ],
+    "title": "Bellman-Admissible Scalar Losses: Dynamic Calibration, Fundamental Limits, and Misspecification Geometry",
+    "venue": "European Workshop on Reinforcement Learning (EWRL), 2026; poster",
+    "award": "",
+    "group": "workshop",
+    "id": "publication-13",
+    "year": 2026,
+    "equalContribution": false,
+    "categories": [
+      "rl",
+      "stats"
+    ],
+    "summary": "Characterizes scalar losses compatible with Bellman regression and studies their calibration guarantees, worst-case limits, and behavior under misspecification.",
+    "featured": false,
+    "links": [
+      {
+        "label": "Workshop page",
+        "url": "https://ewrl-org.github.io/ewrl-2026/poster_64.html"
+      },
+      {
+        "label": "Paper (OpenReview)",
+        "url": "https://openreview.net/forum?id=TQ7DxflQMm"
+      }
+    ]
+  },
+  {
+    "authors": [
+      "Manoj Saravanan"
+    ],
+    "title": "Policy Planning is Minimal Among Standard Oracles for Stochastic q^π-Realizable Reinforcement Learning",
+    "venue": "European Workshop on Reinforcement Learning (EWRL), 2026; poster",
+    "award": "",
+    "group": "workshop",
+    "id": "publication-14",
+    "year": 2026,
+    "equalContribution": false,
+    "categories": [
+      "rl"
+    ],
+    "summary": "Uses Bellman encoding and transcript simulation to establish the necessity of policy-planning oracles in generic stochastic reinforcement learning with realizable policy values.",
+    "featured": false,
+    "links": [
+      {
+        "label": "Workshop page",
+        "url": "https://ewrl-org.github.io/ewrl-2026/poster_42.html"
+      },
+      {
+        "label": "Paper (OpenReview)",
+        "url": "https://openreview.net/forum?id=DYeiVX3Two"
+      }
+    ]
+  },
+  {
+    "authors": [
+      "Manoj Saravanan"
+    ],
+    "title": "Nash-Sufficient Experiments: Minimax Preference Alignment under Drift and Endogenous Feedback",
+    "venue": "ELLIS Workshop on the Foundations of LLM Post-Training in Changing Environments, NeurIPS 2026; accepted poster, non-archival",
+    "award": "",
+    "group": "workshop",
+    "id": "publication-15",
+    "year": 2026,
+    "equalContribution": false,
+    "categories": [
+      "stats",
+      "games"
+    ],
+    "summary": "Studies which comparison experiments identify an entropy-regularized Nash policy, with minimax guarantees under drift and feedback shaped by deployment.",
+    "featured": false,
+    "links": [
+      {
+        "label": "Conference page",
+        "url": "https://neurips.cc/virtual/2026/loc/paris/164472"
+      },
+      {
+        "label": "Paper (OpenReview)",
+        "url": "https://openreview.net/forum?id=6VYTljxZvL"
+      }
+    ]
+  },
+  {
+    "authors": [
+      "Manoj Saravanan"
+    ],
+    "title": "Known Worlds, Unknown Composition: The Value of Action Diversity",
+    "venue": "CL4FMAgents Workshop, NeurIPS 2026; accepted poster, non-archival",
+    "award": "",
+    "group": "workshop",
+    "id": "publication-16",
+    "year": 2026,
+    "equalContribution": false,
+    "categories": [
+      "rl",
+      "continual"
+    ],
+    "summary": "Studies how diverse observation channels change the information needed to identify unknown correspondence between known local models.",
+    "featured": false,
+    "links": [
+      {
+        "label": "Conference page",
+        "url": "https://neurips.cc/virtual/2026/loc/sydney/170526"
+      },
+      {
+        "label": "Paper (OpenReview)",
+        "url": "https://openreview.net/forum?id=7QrVROdxE4"
+      }
+    ]
+  },
+  {
+    "authors": [
+      "Manoj Saravanan"
+    ],
+    "title": "When Do Complete Classes Tensorize? Uniformization, Rectangularity, and Minimal E-Process Representations",
+    "venue": "E-Values: From Statistics to ML Workshop, NeurIPS 2026; accepted poster, non-archival",
+    "award": "",
+    "group": "workshop",
+    "id": "publication-17",
+    "year": 2026,
+    "equalContribution": false,
+    "categories": [
+      "stats"
+    ],
+    "summary": "Characterizes when complete one-step classes compose into complete e-process classes, isolating measurable selection and rectangularity requirements.",
+    "featured": false,
+    "links": [
+      {
+        "label": "Conference page",
+        "url": "https://neurips.cc/virtual/2026/loc/paris/172187"
+      },
+      {
+        "label": "Paper (OpenReview)",
+        "url": "https://openreview.net/forum?id=BboXw9JBNw"
+      }
+    ]
+  },
+  {
+    "authors": [
+      "Manoj Saravanan",
+      "Rohit Kumar Salla"
+    ],
+    "title": "Bellman–Whitney Envelopes: Sharp Partial Identification in Offline Control under Support Holes",
+    "venue": "Decision-Making from Offline Datasets to Online Adaptation (DEMO) Workshop, ICML 2026; poster",
+    "award": "",
+    "group": "workshop",
+    "id": "publication-18",
+    "year": 2026,
+    "equalContribution": false,
+    "categories": [
+      "rl",
+      "stats"
+    ],
+    "summary": "Derives sharp value-identification intervals for offline control with support holes under rectangular Bellman–Lipschitz closure conditions.",
+    "featured": false,
+    "links": [
+      {
+        "label": "Conference page",
+        "url": "https://icml.cc/virtual/2026/83639"
+      }
+    ]
+  },
+  {
+    "authors": [
+      "Manoj Saravanan"
+    ],
+    "title": "A Memory–Voting Hierarchy for Continual Learning",
+    "venue": "CL4FMAgents Workshop, NeurIPS 2026; accepted poster, non-archival",
+    "award": "",
+    "group": "workshop",
+    "id": "publication-19",
+    "year": 2026,
+    "equalContribution": false,
+    "categories": [
+      "continual",
+      "stats"
+    ],
+    "summary": "Establishes a memory hierarchy for continual learning on an encoded task family as the permitted size of a final majority vote increases.",
+    "featured": false,
+    "links": [
+      {
+        "label": "Conference page",
+        "url": "https://neurips.cc/virtual/2026/loc/sydney/170511"
+      },
+      {
+        "label": "Paper (OpenReview)",
+        "url": "https://openreview.net/forum?id=GkHG4YXhsd"
+      }
+    ]
+  },
+  {
+    "authors": [
+      "Manoj Saravanan"
+    ],
+    "title": "The Bellman License: Minimax Real-Transition Audits for World-Model Policy Improvement",
+    "venue": "Rethinking Uncertainty for Modern Robotics Paradigms Workshop, IROS 2026; poster",
+    "award": "",
+    "group": "workshop",
+    "id": "publication-20",
+    "year": 2026,
+    "equalContribution": false,
+    "categories": [
+      "rl"
+    ],
+    "summary": "",
+    "featured": false,
+    "links": [
+      {
+        "label": "Workshop program",
+        "url": "https://rethinking-uncertainty.github.io/#papers"
+      },
+      {
+        "label": "Paper (OpenReview)",
+        "url": "https://openreview.net/forum?id=Ve75CXZRFc"
+      }
+    ]
+  },
+  {
+    "authors": [
+      "Manoj Saravanan",
+      "Rohit Kumar Salla",
+      "Shrikar Reddy Kota"
+    ],
+    "title": "Contextual Observability and Grammar Singularity for Compositional Task Families",
+    "venue": "Combining Theory and Benchmarks Workshop, ICML 2026; poster",
+    "award": "",
+    "group": "workshop",
+    "id": "publication-21",
+    "year": 2026,
+    "equalContribution": false,
+    "categories": [
+      "stats"
+    ],
+    "summary": "Studies identifiability and posterior contraction for compositional task families through contextual observability, module separation, and singularity.",
+    "featured": false,
+    "links": [
+      {
+        "label": "Conference page",
+        "url": "https://icml.cc/virtual/2026/68307"
+      },
+      {
+        "label": "Paper (OpenReview)",
+        "url": "https://openreview.net/forum?id=adgFR0e7vn"
+      }
+    ]
+  }
+]

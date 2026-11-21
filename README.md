@@ -1,2 +1,7 @@
-# manoj060603.github.io
-Personal research website for Manoj Saravanan: publications, research interests, and CV.
+# Manoj Saravanan — Research
+
+Personal research website: https://manoj060603.github.io/
+
+This static website contains 21 publications, research interests, education, and the final PhD research CV.
+
+Serve this directory with any static web server to preview it. GitHub Pages publishes the main branch from the repository root.
