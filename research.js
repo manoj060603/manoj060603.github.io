@@ -18,7 +18,7 @@ function applyFilter(value) {
     button.setAttribute("aria-pressed", String(button.dataset.filter === value));
   });
   count.textContent = value === "all"
-    ? "21 papers · 8 conference and journal papers · 13 workshop papers and posters"
+    ? "22 papers · 9 conference and journal papers · 13 workshop papers and posters"
     : `${visible} of ${papers.length} papers shown`;
 }
 

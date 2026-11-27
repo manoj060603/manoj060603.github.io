@@ -27,6 +27,35 @@
   },
   {
     "authors": [
+      "Rohit Kumar Salla",
+      "Manoj Saravanan",
+      "Shrikar Reddy Kota"
+    ],
+    "title": "Semantic Consensus Reinforcement Learning: Active Repair via Orbit-Guided Exploration",
+    "venue": "EACL 2027; accepted to the main conference",
+    "award": "",
+    "group": "conference",
+    "id": "publication-22",
+    "year": 2027,
+    "equalContribution": false,
+    "categories": [
+      "rl"
+    ],
+    "summary": "Learns history-dependent semantic probes to uncover answer inconsistencies under a fixed budget, then repairs the model using independently verified correct views.",
+    "featured": false,
+    "links": [
+      {
+        "label": "Paper (OpenReview)",
+        "url": "https://openreview.net/forum?id=utfHWKwQ4V"
+      },
+      {
+        "label": "PDF",
+        "url": "https://openreview.net/pdf?id=utfHWKwQ4V"
+      }
+    ]
+  },
+  {
+    "authors": [
       "Manoj Saravanan"
     ],
     "title": "Reference-Bellman Geometry for Oracle-Efficient Policy Identification in Linear MDPs",
